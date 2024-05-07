@@ -1,3 +1,9 @@
 outputs/
 *.py
-!main.py
+!__init__.py
+!core.py
+.DS_Store
+*.egg-info/
+build/
+dist/
+*.egg-info
