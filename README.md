@@ -4,7 +4,7 @@
 
 ## Description
 
-Portal is a small image manipulation tool that allows hiding text in images, converting text to images, creating histograms, and more!
+Portal is an AI code converter for all! Portal can port code from one programming language to another using CodeLLaMA.
 
 ## Features
 
