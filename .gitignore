@@ -1,0 +1,3 @@
+outputs/
+*.py
+!main.py
